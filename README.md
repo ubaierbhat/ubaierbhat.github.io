@@ -1,10 +1,3 @@
-```kotlin
-val myResume = resume {
-    name = "Ubaier Bhat"
-    skills = listOf(
-        "kotlin",
-        "java",
-        "android"
-    )
-}
-```
+ubaierbhat.github.io
+
+Build using GitHub Pages and Jekyll 

@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: ubaierbhat
 permalink: /blog/:year/:month/:day/:title
+google_analytics: ${GA_TRACKING_ID}
